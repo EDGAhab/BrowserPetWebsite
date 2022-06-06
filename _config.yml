@@ -63,102 +63,64 @@ people:
   pic: 1
   position: 产品经理，技术小组组长
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/feilian-huang-a6ba801a1/
+    - title: github
+      url: https://github.com/EDGAhab
 
 - name: 吕虹云
   pic: 2
   position: EDG桌宠画师
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Kirin Pörsti
   pic: 3
   position: Asoul桌宠画师
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/kirin-p%C3%B6rsti-966b6617a/
 
 - name: 肖遥
   pic: 4
   position: 开发者
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/yaoxiao56/
+    - title: github
+      url: https://github.com/yaoxiao6
 
 - name: 沈诗瑶
   pic: 3
   position: 开发者
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/shiyao-shen/
+    - title: github
+      url: https://github.com/Shiyao-monster
 
 - name: 崔航齐
   pic: 6
   position: 开发者
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/lucas-cui-701943213/
+    - title: github
+      url: https://github.com/Lucascuibu
 
 - name: 甘皓元
   pic: 3
   position: 开发者
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 - name: 敖敏欣
   pic: 8
   position: 网页设计
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/EDGAhab
 
 # Postal address (add as many lines as necessary)
 address:
