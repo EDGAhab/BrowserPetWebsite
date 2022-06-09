@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: 基础功能演示：拖动，跑步，换人
+subtitle: 陪你一起查资料，和你一起写论文
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2014-07-16
+img: Diana.png
+thumbnail: Diana.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 基本功能：1.可以按下← →进行移动，也可以使用鼠标拖动 2.可以按下↑进行跳跃 3.点击右上角插件的嘉然头像可以更换人物，鼠标风格也会跟着改变
 
 ---

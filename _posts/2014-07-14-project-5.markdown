@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 隐藏功能：吃掉文本框里的文字
+subtitle: 小心！她们十分贪吃！
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: Eat.png
+thumbnail: Eat.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 小心！嘉然的敌人！她们会慢慢吃掉你文本框里的文字。目前按下下方向键可以开启/关闭（我们将进行优化防止误触）。切记不要在写论文的时候打开此功能( ´◔ ‸◔`)
 
 ---

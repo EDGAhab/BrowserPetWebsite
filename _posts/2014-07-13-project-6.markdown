@@ -1,15 +1,15 @@
 ---
-title: Round Icons 
-subtitle: Graphic Design
+title: 日历添加功能：让你更好的做计划！
+subtitle: 轻松添加待办事项进入谷歌日历
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: carol.png
+thumbnail: Bellaaa.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 只需要选取一段文字，点击右键就会出现上图的界面。选取的文字将自动变成任务，而时间也会智能地根据现在时间调整。非常方便的就可以添加待办事项(˶˚ ᗨ ˚˶)
 
 ---
