@@ -1,5 +1,5 @@
 ---
-title: 日历添加功能：让你更好的做计划！
+title: 添加日历：让你更好的做计划！
 subtitle: 轻松添加待办事项进入谷歌日历
 layout: default
 modal-id: 6
