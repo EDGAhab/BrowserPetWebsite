@@ -1,5 +1,5 @@
 ---
-title: 基础功能：拖动，跑步，换人
+title: 基础功能：拖动，移动，换人
 subtitle: 陪你一起查资料，和你一起写论文
 layout: default
 modal-id: 4
